@@ -16,7 +16,7 @@
 
 ### 打刀
 
-<img width="1097" height="447" alt="image" src="https://github.com/user-attachments/assets/d9747616-ac95-4033-a196-f10f565c5f6c" />
+<img width="1163" height="392" alt="image" src="https://github.com/user-attachments/assets/7325ed8f-3c88-430a-9f81-5d176f995ac7" />
 
 <img width="1110" height="399" alt="image" src="https://github.com/user-attachments/assets/121977ae-f6b4-43e8-abee-a1d07134d67a" />
 
