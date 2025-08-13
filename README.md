@@ -16,9 +16,9 @@
 
 ### 腰刀
 
-<img width="1326" height="504" alt="image" src="https://github.com/user-attachments/assets/13e062b8-37b6-4c4d-8706-24dbad43f522" />
-
 <img width="1124" height="503" alt="image" src="https://github.com/user-attachments/assets/80bf1ea5-8bd6-418d-89cb-578104d57673" />
+
+<img width="1326" height="504" alt="image" src="https://github.com/user-attachments/assets/13e062b8-37b6-4c4d-8706-24dbad43f522" />
 
 - 全长93cm，柄长16cm。采用70%petg打印剑柄并打磨装配后，总重约800g，重心位于镡前约14.0cm。
 
