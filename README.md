@@ -14,6 +14,19 @@
 
 刀身无渐薄，项目通过直接设计刀身形状，以符合真刀质量分布，并达成减伤要求。
 
+### 腰刀
+
+<img width="1326" height="504" alt="image" src="https://github.com/user-attachments/assets/13e062b8-37b6-4c4d-8706-24dbad43f522" />
+
+<img width="1124" height="503" alt="image" src="https://github.com/user-attachments/assets/80bf1ea5-8bd6-418d-89cb-578104d57673" />
+
+- 全长93cm，柄长16cm。采用70%petg打印剑柄并打磨装配后，总重约800g，重心位于镡前约14.0cm。
+
+- 经测试，若选用3mm65Mn或60Si2Mn板材，剑条刺弯压力约12kg。
+
+- 数据可能存在浮动，视选材与工艺而定。
+
+
 ### 打刀
 
 <img width="1163" height="392" alt="image" src="https://github.com/user-attachments/assets/7325ed8f-3c88-430a-9f81-5d176f995ac7" />
