@@ -16,11 +16,11 @@
 
 ### 腰刀
 
-<img width="1124" height="503" alt="image" src="https://github.com/user-attachments/assets/80bf1ea5-8bd6-418d-89cb-578104d57673" />
+<img width="1365" height="529" alt="image" src="https://github.com/user-attachments/assets/b831033c-96ea-45dc-a3bf-2328537a75af" />
 
-<img width="1326" height="504" alt="image" src="https://github.com/user-attachments/assets/13e062b8-37b6-4c4d-8706-24dbad43f522" />
+<img width="1308" height="582" alt="image" src="https://github.com/user-attachments/assets/2072976b-9c7f-4dc9-a901-6b7cf70b25df" />
 
-- 全长93cm，柄长16cm。采用70%petg打印剑柄并打磨装配后，总重约800g，重心位于镡前约14.0cm。
+- 全长93cm，柄长16cm。采用70%petg打印剑柄并打磨装配后，总重约800g，重心位于镡前约13.5cm。
 
 - 经测试，若选用3mm65Mn或60Si2Mn板材，剑条刺弯压力约10kg。
 
