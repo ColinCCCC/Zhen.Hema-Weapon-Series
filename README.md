@@ -40,7 +40,7 @@
 
 - 刀首（中片）【3mm】：[zhen_weight_mid.DXF](https://github.com/ColinCCCC/Zhen.Hema-Weapon-Series/blob/main/mingWaistSaber/zhen_weight_mid.SLDPRT)
 
-- 刀首（侧片）【3mm】：[zhen_weight_side.DXF](https://github.com/ColinCCCC/Zhen.Hema-Weapon-Series/blob/main/mingWaistSaber/zhen_weight_side.DXF)
+- 刀首（侧片）【3mm，6个】：[zhen_weight_side.DXF](https://github.com/ColinCCCC/Zhen.Hema-Weapon-Series/blob/main/mingWaistSaber/zhen_weight_side.DXF)
 
 - 刀镡【4mm】：[zhen_hgrd.DXF](https://github.com/ColinCCCC/Zhen.Hema-Weapon-Series/blob/main/mingWaistSaber/zhen_hgrd.DXF)
 
