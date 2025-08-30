@@ -10,7 +10,7 @@
 
 ## 成品说明
 
-本项目为用于兵击对练的武器系列设计，包含腰刀、打刀。系列设计主题风格为激进、锐利的近未来工业风格。
+本项目为用于兵击对练的武器系列设计，计划包含腰刀、打刀、单手德砍、侧剑等。系列设计主题风格为激进、锐利的近未来工业风格。
 
 刀身无渐薄，项目通过直接设计刀身形状，以符合真刀质量分布，并达成减伤要求。
 
@@ -44,7 +44,21 @@
 
 - 刀镡【4mm】：[zhen_hgrd.DXF](https://github.com/ColinCCCC/Zhen.Hema-Weapon-Series/blob/main/mingWaistSaber/zhen_hgrd.DXF)
 
-### 打刀
+#### 打印件
+
+若自备3D打印机，可以自行下载项目中的**STL文件**进行切片打印。
+
+若无3D打印机，可在闲鱼搜索附近提供3D打印服务的商户，提供项目中的**STL文件**，打印后取货。
+
+- 刀柄（左片）：[zhen_hdl_l.STL](https://github.com/ColinCCCC/Zhen.Hema-Weapon-Series/blob/main/mingWaistSaber/zhen_hdl_l.STL)
+
+- 刀柄（右片）：[zhen_hdl_r.STL](https://github.com/ColinCCCC/Zhen.Hema-Weapon-Series/blob/main/mingWaistSaber/zhen_hdl_r.STL)
+
+#### 装配
+
+采用3个M6*14、1个M3**8的夹板螺母固定，请自行购置
+
+### 打刀（未完工）
 
 <img width="1163" height="392" alt="image" src="https://github.com/user-attachments/assets/7325ed8f-3c88-430a-9f81-5d176f995ac7" />
 
